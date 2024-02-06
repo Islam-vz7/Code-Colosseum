@@ -1,3 +1,7 @@
+<h1 align="center">Code Colosseum</h1>
+
+
+
 - 💡 Inspiration **We were inspired by the idea of how Kahoot works as a platform where you test your knowledge generally, so we thought of adding a coding theme to the project by combining Kahoot and Codeforces (It is a platform where you compete against other programmers by solving problems by coding). We also wanted to enhance the Computer Science teaching techniques in education.**
 
 - 📊 Challenges we ran into [It took us a lot of research to make the communication and synchronization between webpages and each other. Making the text-box acting as a compiler, so you can write proper code.](It took us a lot of research to make the communication and synchronization between webpages and each other. Making the text-box acting as a compiler, so you can write proper code.)
@@ -8,7 +12,6 @@
 
 - ⚒️ How we built it **We used HTML, CSS, Java Script for the webpages, we implemented Sockets and Flask libraries in Python as a backend for the webpages, where hosting a local network goes and communicating with the webpages and each other.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
