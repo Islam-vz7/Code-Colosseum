@@ -2,6 +2,7 @@
 
 <h2 align="centre">Team</h2>
 
+- **Islam Elserougi**
 - **Fares Shehata**
 - **Usama Zulfiqar**
 - **Jaime Rowlinson**
